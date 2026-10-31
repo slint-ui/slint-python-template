@@ -5,5 +5,5 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
-    "slint>=1.18.1b1",
+    "slint>=1.19.0b1",
 ]
