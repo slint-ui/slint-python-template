@@ -12,7 +12,7 @@ Python code, how to trigger react to callbacks, get and set properties and use b
 
 In order to use this template and build a Python application, you need to install a few tools:
 
- * [Python 3](https://python.org/)
+ * [Python 3.12 or newer](https://python.org/)
  * [uv](https://docs.astral.sh/uv/)
 
 ## Usage
@@ -33,4 +33,4 @@ We recommend using an IDE for development, along with our [LSP-based IDE integra
 ## Next Steps
 
 We hope that this template helps you get started and you enjoy exploring making user interfaces with Slint. To learn more
-about the Slint APIs and the `.slint` markup language check out our [online documentation](https://docs.slint.dev/latest/docs/python/slint).
+about the Slint APIs and the `.slint` markup language check out our [online documentation](https://docs.slint.dev/latest/docs/python/).
